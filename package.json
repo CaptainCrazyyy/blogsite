@@ -1,0 +1,22 @@
+{
+  "name": "blogsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainCrazyyy/blogsite.git"
+  },
+  "author": "Jared Ibañez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainCrazyyy/blogsite/issues"
+  },
+  "homepage": "https://github.com/CaptainCrazyyy/blogsite#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
