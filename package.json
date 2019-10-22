@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/CaptainCrazyyy/blogsite/issues"
   },
- "dependencies": {
+  "dependencies": {
     "gh-pages": "^2.1.1"
   }
 }
